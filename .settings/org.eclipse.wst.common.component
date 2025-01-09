@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+<<<<<<< HEAD
         
     <wb-module deploy-name="Banking.web.app">
                 
@@ -14,4 +15,15 @@
             
     </wb-module>
     
+=======
+    <wb-module deploy-name="Banking.web.app">
+        <wb-resource deploy-path="/" source-path="/target/m2e-wtp/web-resources"/>
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/main/java"/>
+        <property name="context-root" value="Banking.web.app"/>
+        <property name="java-output-path" value="/Banking.web.app/target/classes"/>
+    </wb-module>
+>>>>>>> 7ca684d082d0e845733e60285a983a53dcbc130e
 </project-modules>

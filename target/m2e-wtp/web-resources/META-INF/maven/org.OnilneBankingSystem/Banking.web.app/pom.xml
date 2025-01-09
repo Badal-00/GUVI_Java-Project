@@ -38,4 +38,8 @@
 	<build>
 		<finalName>Banking.web.app</finalName>
 	</build>
+<<<<<<< HEAD
 </project>
+=======
+</project>
+>>>>>>> 7ca684d082d0e845733e60285a983a53dcbc130e

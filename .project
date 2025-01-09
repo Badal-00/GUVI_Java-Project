@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>banking-web-app</name>
+=======
+	<name>Banking.web.app</name>
+>>>>>>> 7ca684d082d0e845733e60285a983a53dcbc130e
 	<comment></comment>
 	<projects>
 	</projects>
